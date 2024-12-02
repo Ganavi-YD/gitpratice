@@ -1,1 +1,6 @@
+<<<<<<< HEAD
  helljkjko
+=======
+ hello
+frndsss
+>>>>>>> feature-branchh
